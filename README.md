@@ -1,6 +1,6 @@
 # VaccinationWebSite
 
-As a part of Innovacción from Microsoft I made the cloning of a website using only HTML and CSS.
+As part of Innovacción from Microsoft I made the cloning of a website using only HTML and CSS.
 
 The images weren't necessarily the same.
 
